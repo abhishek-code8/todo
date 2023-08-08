@@ -1,0 +1,6 @@
+.TaskList{
+    overflow: auto;
+    max-height: 500px;
+    color: aliceblue;
+    font-family: monospace;
+}
